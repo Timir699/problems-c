@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main () {
-    int a,n,i,result = 0,temp = 0,sum = 0;
+    int a,n,i,result = 0,sum = 0;
     scanf("%d %d", &a, &n);
     while (1) {
         if ( n <= 0 ) {
